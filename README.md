@@ -1,0 +1,2 @@
+# MongoDB $inc Operator Unexpected Behavior
+This repository demonstrates an issue with the MongoDB `$inc` operator. The original code attempts to decrement a counter, but it does so incorrectly causing unexpected results. The solution shows the correct way to use the `$inc` operator to decrement a counter.
